@@ -1,7 +1,7 @@
 {
     "current_version": "2.0.2",
-    "darwin_arm64_binary": "https://deofex.github.io/pax-kubectl-login/pax-kubectl-login-2-0-1-darwin-arm64",
-    "darwin_amd64_binary": "https://deofex.github.io/pax-kubectl-login/pax-kubectl-login-2-0-1-darwin-amd64",
-    "linux_amd64_binary": "https://deofex.github.io/pax-kubectl-login/pax-kubectl-login-2-0-1-linux-amd64",
-    "windows_amd64_binary": "https://deofex.github.io/pax-kubectl-login/pax-kubectl-login-2-0-1-windows-amd64.exe"
+    "darwin_arm64_binary": "https://deofex.github.io/pax-kubectl-login/pax-kubectl-login-2-0-2-darwin-arm64",
+    "darwin_amd64_binary": "https://deofex.github.io/pax-kubectl-login/pax-kubectl-login-2-0-2-darwin-amd64",
+    "linux_amd64_binary": "https://deofex.github.io/pax-kubectl-login/pax-kubectl-login-2-0-2-linux-amd64",
+    "windows_amd64_binary": "https://deofex.github.io/pax-kubectl-login/pax-kubectl-login-2-0-2-windows-amd64.exe"
 }
